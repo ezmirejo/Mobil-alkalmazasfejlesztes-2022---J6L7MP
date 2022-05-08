@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="Password">Jelszó</string>
+    <string name="Username">Felhasználónév</string>
+    <string name="Login">Bejelentkezés</string>
+    <string name="Registration">Regisztráció</string>
+    <string name="PasswordAgain">Jelszó mégegyszer</string>
+    <string name="Cancel">Mégsem</string>
+    <string name="google_login">Bejelentkezés Google fiókkal</string>
+    <string name="login_guest">Bejelentkezés vendégként</string>
+    <string name="email_address">E-mail cím</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    <string name="delete">Törlés</string>
+    <string name="AddToCart">Kosárba</string>
+
+
+    <string-array name="shopping_item_names">
+        <item>Fa szőnyeg</item>
+        <item>János szőnyeg</item>
+        <item>Perzsa szőnyeg</item>
+        <item>Modern szőnyeg</item>
+        <item>Klasszikus szőnyeg</item>
+        <item>Varázsszőnyeg</item>
+        <item>Gyerekszőnyeg</item>
+        <item>Nagyméretű szőnyeg</item>
+        <item>Konyhai szőnyeg</item>
+        <item>Kör szőnyeg</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Méret: 45x150 cm</item>
+        <item>Méret: 200x200 cm</item>
+        <item>Méret: 200x300 cm</item>
+        <item>Méret: 350x350 cm</item>
+        <item>Méret: 80x200 cm</item>
+        <item>Méret: 60x220 cm</item>
+        <item>Méret: 45x150 cm</item>
+        <item>Méret: 1200x1200 cm</item>
+        <item>Méret: 50x350 cm</item>
+        <item>Méret: 200x200 cm</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>3.5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>1.5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2.5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/fa_szonyeg</item>
+        <item>@drawable/janos_szonyeg</item>
+        <item>@drawable/perzsa_szonyeg</item>
+        <item>@drawable/modern_szonyeg</item>
+        <item>@drawable/klasszikus_szonyeg</item>
+        <item>@drawable/varazs_szonyeg</item>
+        <item>@drawable/gyerek_szonyeg</item>
+        <item>@drawable/nagymeretu_szonyeg</item>
+        <item>@drawable/konyhai_szonyeg</item>
+        <item>@drawable/kor_szonyeg</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>100 Ft</item>
+        <item>150 Ft</item>
+        <item>500 Ft</item>
+        <item>300 Ft</item>
+        <item>180 Ft</item>
+        <item>70 Ft</item>
+        <item>20 Ft</item>
+        <item>30 Ft</item>
+        <item>15 Ft</item>
+        <item>90 Ft</item>
+    </array>
+</resources>

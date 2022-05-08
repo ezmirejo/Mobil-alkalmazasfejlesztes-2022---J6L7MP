@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="Password">Jelszó</string>
+    <string name="Username">Felhasználónév</string>
+    <string name="Login">Bejelentkezés</string>
+    <string name="Registration">Regisztráció</string>
+    <string name="PasswordAgain">Jelszó mégegyszer</string>
+    <string name="Cancel">Mégsem</string>
+    <string name="google_login">Bejelentkezés Google fiókkal</string>
+    <string name="login_guest">Bejelentkezés vendégként</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="delete">Törlés</string>
+    <string name="AddToCart">Kosárba</string>
+</resources>
